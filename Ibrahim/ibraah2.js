@@ -3,5 +3,5 @@ const bwmxmd2 = "Yoo what about when you say that it....... ‫‪‫҈꙲ 󠀬
 
 // Xmd1
 module.exports = {
-    bwmxmd2
+    FREDRICK 
 };
